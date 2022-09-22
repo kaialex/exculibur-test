@@ -1,5 +1,6 @@
 import {
   Actor,
+  CollisionEndEvent,
   CollisionStartEvent,
   CollisionType,
   Color,
